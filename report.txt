@@ -1,0 +1,14 @@
+REPORT
+
+ This project is about building a recommender system using the sample of python codes and we implement this code into java. Recommender systems typically produce a list of recommendations. To specifically we use this system for movie recommendations for users.
+When we were doing our project we were given two data files, one of them includes movie numbers and movie names and other informations about movies but we use the first two parts. In the other one there are ratings which are given by specific user ids for specific movie numbers from other file.
+
+ Moreover, to implement our code we use hash map that we took from our course book for searching algorithm. We choose this algorithm because it has more advantages than the other ones such as binary search tree, linear probing hash symbol table. To begin with the main benefit when we compare with respect to other searching algorithms is being faster.
+
+
+
+EKIN SILAHLIOGLU - 116200078
+EZGI KOC - 115200087
+SELIN YESILSELVE - 115200041
+SIMGE EREK -115200023
+

@@ -1,0 +1,12 @@
+BONUS 
+
+We can use this recommender system other than movie ratings such as: 
+1) Students' exam result according to the teacher 
+2) Giving a rating for restaurants(Customer id, restaurant name ,rating) and also same for  historical places etc.
+3) Musical contest such as Eurovision (country name as a user id, song name as a movie name,countries rating to each other)
+4) Food Recommendations like people cook foods and according to the foods quality,taste... judges give ratings and the user can access the food rating according to the user id or food species.
+5) Book,game recommendations according to price, rating.
+
+
+
+Ekin Silahlioglu, Ezgi Koç, Simge Erek, Selin Yesilselve
